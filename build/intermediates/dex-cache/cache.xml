@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuyi\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="H:\day04_project\xiaoqingxin\Recyclerview-Gallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.1.0_f5000051047f22911859734bb81c1507fb174800\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuyi\.android\build-cache\0ffed1965a7d6b8cfdefbc3896181b287a3962da\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="H:\day04_project\xiaoqingxin\Recyclerview-Gallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d1f5d3e46e32dc2b24efd954f657a948848bec23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\day04_project\xiaoqingxin\Recyclerview-Gallery\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="H:\day04_project\xiaoqingxin\Recyclerview-Gallery\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_edef77c17a0dadec076b1783267fc3a3c8083a9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuyi\.android\build-cache\f3ac860e565dc5a79d6a75939064e91dc9d3b662\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="H:\day04_project\xiaoqingxin\Recyclerview-Gallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7dda1f88514f7744da7b4d646598acb47d4c9eb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuyi\.android\build-cache\f869be35eec5926481ff49e8ba390581f3880fb0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="H:\day04_project\xiaoqingxin\Recyclerview-Gallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2a1012daeb6dd221eb63ef9662ae19eb7b499fd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\day04_project\xiaoqingxin\Recyclerview-Gallery\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="448d44a134aa65fa686656617cad70eac9c0241c">
+        <dex dex="H:\day04_project\xiaoqingxin\Recyclerview-Gallery\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b4050638c70a7c22f3ce28a355a9153c58d71cf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuyi\.android\build-cache\f910a1b40ff5c977a5a8261f79393fe8580ac365\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="H:\day04_project\xiaoqingxin\Recyclerview-Gallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_90048ce0a6b1b3deac757fded977d4b724ab5dcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuyi\.android\build-cache\dfa1389bfacdeab9a943e9ef07c31145412380c0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="H:\day04_project\xiaoqingxin\Recyclerview-Gallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a4a4734b00c6801952fd008b4d54a9ee9ef4e838\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuyi\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="H:\day04_project\xiaoqingxin\Recyclerview-Gallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_c97bbbc3bdbefe901d2b6083d832e45c55e1f21a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuyi\.android\build-cache\22bc6b401923aefbe00a2dd874f1fcd0770046f2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="H:\day04_project\xiaoqingxin\Recyclerview-Gallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0f02b335a83a248e2e4453c683a3ccabec0ae78c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuyi\AppData\Local\Android\Sdk\build-tools\27.0.1\renderscript\lib\renderscript-v8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="215805fbe923c9b192d4a9a3d13a07c7fc1d3f53">
+        <dex dex="H:\day04_project\xiaoqingxin\Recyclerview-Gallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\renderscript-v8_64b3370d3ba7dcf24425a2ad75adcedb18dd2ac8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuyi\.android\build-cache\a4e671b526193d8ddbea61b3b07463b24c9cb85e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="H:\day04_project\xiaoqingxin\Recyclerview-Gallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9cbeca93a9616388eb73d2220d36670ef30c0b8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuyi\.android\build-cache\60915a273153c37eba054a574f94f50031f35368\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="H:\day04_project\xiaoqingxin\Recyclerview-Gallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aff159172f3c6c148e354a5301d0d15e790df3c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuyi\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="H:\day04_project\xiaoqingxin\Recyclerview-Gallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_fc28850810c1cb387fa0441c6f83fe84fed13c44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuyi\.android\build-cache\64be15bc3464c750ff8db30995d15e41a4daba9f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="H:\day04_project\xiaoqingxin\Recyclerview-Gallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ab2b96fd2bcb93b6e033237d6eae0b7a9b008e01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuyi\.android\build-cache\c82d883acea7bb9c5cc6de4d850fb9d507921e9d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="H:\day04_project\xiaoqingxin\Recyclerview-Gallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_593b2d57f55d73993f353b975126a3e48ff9fbcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuyi\.android\build-cache\1b055abee9fef05a73d3f7874387a715b4108a2b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="H:\day04_project\xiaoqingxin\Recyclerview-Gallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4195086310f0319ff48d016ca8018113ee2dd581\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuyi\.android\build-cache\0f1f84d77c8b891ec9e52e1294cd690b0852614d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="H:\day04_project\xiaoqingxin\Recyclerview-Gallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_05d6818ef80bfc422f905441c4811b6fd389127d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuyi\.android\build-cache\951123b9a17f4fbff99ac83e831f1240a5ce9800\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="H:\day04_project\xiaoqingxin\Recyclerview-Gallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c207ab02a8611831339100d2b101cc9fffc221b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuyi\.android\build-cache\10cbb2a0de55f0ad2c84c46e29521d0aadb670f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="H:\day04_project\xiaoqingxin\Recyclerview-Gallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c96ab33c6302def85aa8a5ae110ba13ffd8f1462\classes.dex" />
+    </item>
+
+</items>
